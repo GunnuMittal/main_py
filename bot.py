@@ -23,7 +23,7 @@ now it is an obsolete version for my work environment, that's why I post it for 
 	-TOKEN: 5145137093:AAEETRZHTrPVXEP3GJ1uzd-dUFZKrA_KCck
 	- MODE: prod
 	- CHAT_ID_FORWARD: -1001789633775
-	- HEROKU_APP_NAME: (HEROKU APP NAME)
+	- HEROKU_APP_NAME: (gunnu-main-py)
 '''
 
 
