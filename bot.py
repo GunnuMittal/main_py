@@ -37,10 +37,10 @@ client = pymongo.MongoClient(
 	)# MONGO DB LINK 
 db = client.credit_cards
 
-developers = ['878216403']
+developers = ['1981863218']
 
 
-addusr = ""
+
 tk = os.getenv("TOKEN")
 mode = os.getenv("MODE")
 
