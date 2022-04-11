@@ -41,7 +41,7 @@ developers = ['878216403']
 
 
 addusr = ""
-tk = os.getenv("TOKEN")
+tk = os.getenv("5145137093:AAEETRZHTrPVXEP3GJ1uzd-dUFZKrA_KCck")
 mode = os.getenv("MODE")
 
 posting_channel = os.getenv("CHAT_ID_FORWARD")
